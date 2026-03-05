@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace CheckerBoardPosition.Tests;
+﻿namespace CheckerBoardPosition.Tests;
 
 public class CheckerBoardPositionTest
 {
